@@ -24,6 +24,7 @@ produtos = [
     ("Azeite", "Molhos", 12.0, 25),
     ("Chocolate", "Doces", 5.0, 80),
     ("Banana", "Frutas", 1.5, 150)  # Novo produto
+    ("Doce de leite", "Doces", 10.15, 200)
 ]
 
 def criar_tabela_produto(conn):
